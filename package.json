@@ -1,0 +1,7 @@
+{
+  "name": "test 5",
+  "version": "1.0.0",
+  "dependencies": {
+    "swiper": "^8.4.5"
+  }
+}
